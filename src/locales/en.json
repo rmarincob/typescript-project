@@ -1,0 +1,15 @@
+{
+  "unauthorized": "You do not have the necessary permissions to access the requested resource.",
+  "unauthenticated": "Your session has expired or is invalid. Please log in again.",
+  "server-started": "⚡️ Server started on port",
+  "resource-not-found": "Resource not found",
+  "message-success": "Process executed successfully!",
+  "client-error": "Your client has issued a malformed or illegal request",
+  "process-successfully": "Process executed successfully",
+  "connection-db-successfully": "Connection to the database PostgreSQL established successfully.",
+  "connection-db-error": "Error while connecting to PostgreSQL",
+  "error-hashing-password": "Error hashing password",
+  "error-incorrect-credentials": "Incorrect Credentials",
+  "model-not-found": "[model] not found",
+  "model-not-save": "[model] not saved"
+}
